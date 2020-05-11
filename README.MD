@@ -1,16 +1,16 @@
 # Project Description
-This is the first part of the final project.  Using my own csv file to generate a MYSQL database
+This is the second part of the final project.  Using my own csv file to generate a MYSQL database
+Then using postman to call my APIs.
 
-# Pycharm tables
-![Pycharm Database](screenshots/DatabasePycharms.PNG)
-# Homepage
-![Homepage](screenshots/Homepage.PNG)
-# Data Record
-![View Data Record](screenshots/ViewData.PNG)
+# Postman All Listings
+![All Records](screenshots/AllPlayers.PNG)
+# Get Record
+![Get Request](screenshots/GetOnePlayer.PNG)
 # New Record
-![New PLayer In DB](screenshots/NewPlayer.PNG)
-# Edited Record
-![Edit To Data](screenshots/EditData.PNG)
-![New Data In DB](screenshots/Edited.PNG)
-# Deleted Record (Adam Donachie)
-![Deleted Adam](screenshots/DeletedPlayer.PNG)
+![New Record](screenshots/NewPlayer.PNG)
+![New Record Shown](screenshots/NewPlayerShown.PNG)
+# Edit Record
+![Edit Player](screenshots/EditPlayer.PNG)
+![Edited Player Shown](screenshots/EditedPlayer.PNG)
+# Deleted Record
+![Deleted Player](screenshots/DeletedPlayer.PNG)
